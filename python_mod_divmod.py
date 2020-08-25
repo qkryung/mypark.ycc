@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/python_mod_divmod/proble
+#https://www.hackerrank.com/challenges/python_mod_divmod/problem
 
 # Enter your code here. Read input from STDIN. Print output to STDT
 
